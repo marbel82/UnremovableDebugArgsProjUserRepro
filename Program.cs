@@ -10,6 +10,7 @@ namespace UnremovableDebugArgsProjUserRepro
             {
                 Console.WriteLine(a);
             }
+            Console.ReadLine();
         }
     }
 }
